@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/State-in-Reactjs-Background-Changer-/static/css/main.d2a1b780.css",
+    "main.js": "/State-in-Reactjs-Background-Changer-/static/js/main.3493683a.js",
+    "index.html": "/State-in-Reactjs-Background-Changer-/index.html",
+    "main.d2a1b780.css.map": "/State-in-Reactjs-Background-Changer-/static/css/main.d2a1b780.css.map",
+    "main.3493683a.js.map": "/State-in-Reactjs-Background-Changer-/static/js/main.3493683a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a1b780.css",
+    "static/js/main.3493683a.js"
+  ]
+}
